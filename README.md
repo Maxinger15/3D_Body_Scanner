@@ -1,6 +1,6 @@
 # Full body 3D-Scanner
 
-The goal is a fully working 3D Scanner which keeps an eye on the costs.
+The goal is a fully working 3D Scanner which keeps an eye on the costs so that it is buildable for many people.
 If you have any suggestions for improvement or constructive criticism feel free to open a issue and we discuss it.
 
 ### Used materials
