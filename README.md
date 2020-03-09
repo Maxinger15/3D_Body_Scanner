@@ -1,8 +1,15 @@
 # Full body 3D-Scanner
 
-The goal is a fully working 3D Scanner which keeps an eye on the costs so that it is buildable for many people.
+The goal is a fully working 3D Scanner which keeps an eye on the costs so that it is buildable for all.
 If you have any suggestions for improvement or constructive criticism feel free to open a issue and we discuss it.
 
+## Navigation
+
+-[Used materials](#usedMaterials)
+
+-[Used programms](#usedProgramms)
+
+<a name="usedMaterials"></a>
 ### Used materials
 |Name                  |Quantity  |€ / Item  | € Total|
 |:--------------------:|:--------:|:--------:|:--------:|
@@ -13,4 +20,12 @@ If you have any suggestions for improvement or constructive criticism feel free 
 |Woodscrews            | ~ 96     | ~ 0,03€  | ~ 2,88 € |
 |Wood 2,5 meter        | 3        |  7,00 €  | 21,00 €  |
 |3D printed camera parts| 5       |  0,50 €  |  2,50 €  |
+|LED strip             | 1        | 30,00 €  | 30,00 €  |
+|Diffuser cloth        | 1        |  8,00 €  |  8,00 €  |
+<a name="usedProgramms"></a>
+### Used programms
+
+#### 3D-Printing
+- Construction: TinkerCad
+- Convert: Cura 4.5
 
