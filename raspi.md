@@ -23,3 +23,6 @@ WantedBy=multi-user.target
 5. sudo systemctl start scanner
 6. sudo systemctl enable scanner
 7. sudo systemctl daemon-reload
+
+### Mount Samba Share
+[Link](https://support.zadarastorage.com/hc/en-us/articles/213024986-How-to-Mount-a-SMB-Share-in-Ubuntu)
