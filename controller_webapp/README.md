@@ -1,3 +1,7 @@
+This React App is the Controller for the Scanner. With it you can shoot the pictures and copy them.
+You have to set up a MQTT Broker and install the scripts in the other folder to the raspis.
+Then host this React App on a local webserver and use it with your smartphone.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
