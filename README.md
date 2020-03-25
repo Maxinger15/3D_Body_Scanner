@@ -3,11 +3,14 @@
 The goal is a fully working 3D Scanner which keeps an eye on the costs so that it is buildable for all.
 If you have any suggestions for improvement or constructive criticism feel free to open a issue and we discuss it.
 
+<img src="/pictures/scanner_01_edited.png" width="200">
 ## Navigation
 
 -[Used materials](#usedMaterials)
 
 -[Used programms](#usedProgramms)
+
+-[Pictures](#pictures)
 
 <a name="usedMaterials"></a>
 ### Used materials
@@ -28,4 +31,9 @@ If you have any suggestions for improvement or constructive criticism feel free 
 #### 3D-Printing
 - Construction: TinkerCad
 - Convert: Cura 4.5
+- Printer: Creality Ender 5
 
+<a name="pictures"></a>
+#### Pictures
+<img src="/pictures/scanner_02.jpg" width="400">
+<img src="/pictures/scanner_03.jpg" width="400">
