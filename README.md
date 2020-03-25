@@ -4,19 +4,20 @@ The goal is a fully working 3D Scanner which keeps an eye on the costs so that i
 If you have any suggestions for improvement or constructive criticism feel free to open a issue and we discuss it.
 
 <img src="/pictures/scanner_01_edited.png" width="200">
+
 ## Navigation
 
--[Used materials](#usedMaterials)
+-[Materials](#usedMaterials)
 
--[Used programms](#usedProgramms)
+-[Programms](#usedProgramms)
 
 -[Pictures](#pictures)
 
 <a name="usedMaterials"></a>
-### Used materials
+### Materials
 |Name                  |Quantity  |€ / Item  | € Total|
 |:--------------------:|:--------:|:--------:|:--------:|
-|Raspberry pi zero watt| 5        | 15,00 €  | 75,00 €  |
+|Raspberry PI zero watt| 5        | 15,00 €  | 75,00 €  |
 |Micro sdcard 16GB     | 5        | 5,00 €   | 25,00 €  |
 |Power Supply 5V 1A    | 5        | 4,00 €   | 20,00 €  |
 |Bundle with 5x Raspi Cam inkl adaptor raiser cable| 1        | 35,00 €  | 35,00 €  |
@@ -26,7 +27,9 @@ If you have any suggestions for improvement or constructive criticism feel free 
 |LED strip             | 1        | 30,00 €  | 30,00 €  |
 |Diffuser cloth        | 1        |  8,00 €  |  8,00 €  |
 <a name="usedProgramms"></a>
-### Used programms
+
+#### Programms
+- Photogrammetry: Agisoft Metashape Standard
 
 #### 3D-Printing
 - Construction: TinkerCad
