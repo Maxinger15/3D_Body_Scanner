@@ -1,3 +1,7 @@
+THese are the scripts you have to install on your raspis.
+Change the folders in the script like you need it.
+
+
 ### Run pythonscript on startup as a service
 1. sudo nano /lib/systemd/system/scanner.service
 2. Copy and Paste:
