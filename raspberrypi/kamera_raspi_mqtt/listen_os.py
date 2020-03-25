@@ -24,11 +24,12 @@ def on_message(client, userdata, msg):
     if(str(msg.payload,'UTF-8') == "shoot"):
         cmd = ("raspistill --encoding png --timeout 1 -o /home/pi/pic/"+name+"_"+str(datetime.now().strftime("%d_%m_%Y_T_%H_%M_%S"))+".png")
         subprocess.call(cmd, shell=True)
+        client.publish("scanner_status",qos=2,payload=socket.gethostname()+"_Finished Shot")
     if(str(msg.payload,'UTF-8') == "copy"):
         for filename in glob.glob(os.path.join("/home/pi/pic", '*.*')):
             shutil.copy(filename, "/mnt/gx1/fotos")
             os.remove(filename)
-
+        client.publish("scanner_status",qos=2,payload=socket.gethostname()+"_Copied Files")
 
 client = mqtt.Client()
 
