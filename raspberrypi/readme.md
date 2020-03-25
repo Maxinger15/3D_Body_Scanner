@@ -1,5 +1,11 @@
-THese are the scripts you have to install on your raspis.
+These are the scripts you have to install on your raspis.
 Change the folders in the script like you need it.
+
+### How they work
+1. Connect to mqtt broker
+2. take a picture when notified
+3. chache pictures local
+4. copy pictures do folder (in my case a samba share) and delete local chached pictures
 
 
 ### Run pythonscript on startup as a service
